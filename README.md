@@ -23,6 +23,7 @@ used to assess detector speed to simulate the robot-embedded environment.
 ## Download
 
 * [BaiduYun](https://pan.baidu.com/s/1Be8zc9UdR_Pdsyotg_vR2Q) Key : 4bfl
+* [Google](https://drive.google.com/file/d/1w-bWevH7jFs7A1bIBlAOvXOxe2OFSHHs/view?usp=sharing) 
 
 ## Citation 
 @ARTICLE{2021arXiv210605681L,
